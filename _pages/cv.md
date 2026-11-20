@@ -1,3 +1,5 @@
+[Download my CV (PDF)](/files/Asante_CV.pdf)
+
 ---
 layout: archive
 title: "CV"
