@@ -1,4 +1,3 @@
-[Download my CV (PDF)](/files/PHD_New_Resume.pdf)
 
 ---
 layout: archive
@@ -11,56 +10,28 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)](/files/PHD_New_Resume.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Information Systems – Cyber Security, Dakota State University, 2026 – Present
+* M.S. in Computer Science (Thesis), The University of Akron, 2024 – 2026
+* MBA (Finance), University of Ghana, 2017
+* B.Sc. in Computer Engineering, University of Ghana, 2011
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant, Center for Quantum Information Science & Technology (C-QIST), Madison Cyber Labs, Dakota State University, Aug. 2026 – Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Principal Manager (Director), Critical Information Infrastructure, Cyber Security Authority, Ghana, 2023
+* Manager, Child Online Protection, Cyber Security Authority, Ghana, 2020 – 2022
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Asante, A.D., Iddrisu, S., and Ebrahim, N. "Machine Learning-Based Frameworks for Malware Detection with SHAP Explainability," IEEE TPS-ISA 2025, Pittsburgh, PA.
+
+Certifications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* CISSP, CISA, CRISC, AWS Certified Cloud Practitioner, CompTIA Security+, FAA Part 107 Remote Pilot
