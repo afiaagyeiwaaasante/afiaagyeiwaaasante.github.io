@@ -1,4 +1,4 @@
-[Download my CV (PDF)](/files/Asante_CV.pdf)
+[Download my CV (PDF)](/files/PHD_New_Resume.pdf)
 
 ---
 layout: archive
