@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)](/files/PhD_New_Resume.pdf)
+##[Download my CV (PDF)](/files/PhD_New_Resume.pdf)
 
 Education
 ======
