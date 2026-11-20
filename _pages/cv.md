@@ -10,12 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-##[Download my CV (PDF)](/files/PhD_New_Resume.pdf)
+[Download my CV (PDF)](/files/PhD_New_Resume.pdf)
 
 Education
 ======
 * Ph.D. in Information Systems – Cyber Security, Dakota State University, 2026 – Present
-* M.S. in Computer Science (Thesis), The University of Akron, 2024 – 2026
+* M.S. in Computer Science (Thesis), The University of Akron, 2026
 * MBA (Finance), University of Ghana, 2017
 * B.Sc. in Computer Engineering, University of Ghana, 2011
 
